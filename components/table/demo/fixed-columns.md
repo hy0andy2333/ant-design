@@ -31,7 +31,7 @@ const columns = [
   {
     title: 'Age', width: 100, dataIndex: 'age', key: 'age', fixed: 'left',
   },
-  { title: 'Column 1', dataIndex: 'address', key: '1' },
+  { title: 'Column 1阿萨德', dataIndex: 'address', key: '1' },
   { title: 'Column 2', dataIndex: 'address', key: '2' },
   { title: 'Column 3', dataIndex: 'address', key: '3' },
   { title: 'Column 4', dataIndex: 'address', key: '4' },
@@ -50,7 +50,7 @@ const columns = [
 
 const data = [{
   key: '1',
-  name: 'John Brown',
+  name: 'John Brown水电费水电费',
   age: 32,
   address: 'New York Park',
 }, {
